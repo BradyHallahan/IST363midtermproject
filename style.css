@@ -33,9 +33,9 @@ html, body{
     max-height: 100%;
   }
 
-.text{
-    color: #041e42;
-}
+.text{color: #041e42;}
+
+.text-white{color: #ffb81c;}
 
 .btn{
     background-color: #041e42;
